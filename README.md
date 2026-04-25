@@ -1,10 +1,36 @@
-# About Me
+# Hi, I'm Poorna Sai Prasanth Bojanapu! 👋
 
-- 🔭 I’m currently working on Javascript and Github Actions
-- 🌱 I’m currently learning Python
-- 👯 I’m looking to collaborate on DevOps Projects specifically CICD pipelines
-- 🤔 I’m looking for help with Github Actions
-- 💬 Ask me about CICD
-- 📫 How to reach me: https://www.linkedin.com/in/saiprasanthbojanapu
-- 😄 Pronouns: He/Him
+🎓 Electrical and Electronics Student | 💻 Site Reliability Engineer/DevOps | 📍 Bengaluru, India
+
+---
+
+## 🛠️ Skills
+- **Languages:** Python, JavaScript, HTML, CSS, Typescript
+- **Tools:** Git, GitHub, VS Code, ArgoCD, Kubernetes, Terraform
+
+---
+
+## 🚀 My Projects
+- **To-Do App** — Task manager built with Python
+- **Portfolio Website** — Built with HTML & CSS
+
+---
+
+## 📚 Currently Learning
+- React.js
+- Data Structures & Algorithms
+
+---
+
+## 🏆 Achievements
+- Completed "Python for Everybody" on Coursera
+
+---
+
+## 📫 Reach Me
+- 📧 poornasaiprasanthbojanapu@gmail.com
+
+---
+
+⭐ *Thanks for visiting my profile! Feel free to explore my repositories.*
 
